@@ -30,14 +30,14 @@ enable_hevc_demuxing = true
 enable_nacl = false
 enable_wifi_display = false
 enable_widevine = false
-enable_google_now = true
+enable_google_now = false
 enable_ac3_eac3_audio_demuxing = true
 enable_iterator_debugging = false
 enable_mse_mpeg2ts_stream_parser = true
 enable_remoting = false
 rtc_use_h264 = false
 rtc_use_lto = false
-use_openh264 = false
+use_openh264 = true
 
 v8_use_external_startup_data = true
 update_android_aar_prebuilts = true
